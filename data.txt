@@ -1,26 +1,3 @@
 Name: Ironhacker
 Age: 24
 Favorite Color: Blue
-
-├── project-1
-│   ├── .git
-│   ├── index.html
-│   └── style.css
-├── project-2
-│   ├── .git
-│   ├── index.html
-│   └── style.css
-├── project-3
-│   ├── .git
-│   ├── index.html
-│   └── style.css
-├── project-4
-│   ├── .git
-│   ├── index.html
-│   └── style.css
-└── project-5
-    ├── .git
-    ├── index.html
-    └── style.css
-
-
